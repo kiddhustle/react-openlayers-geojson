@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-openlayers-geojson/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-openlayers-geojson/static/js/main.b62a9fce.chunk.js",
+    "main.js.map": "/react-openlayers-geojson/static/js/main.b62a9fce.chunk.js.map",
+    "runtime-main.js": "/react-openlayers-geojson/static/js/runtime-main.62f40f1e.js",
+    "runtime-main.js.map": "/react-openlayers-geojson/static/js/runtime-main.62f40f1e.js.map",
+    "static/css/2.db529fa1.chunk.css": "/react-openlayers-geojson/static/css/2.db529fa1.chunk.css",
+    "static/js/2.dac2810b.chunk.js": "/react-openlayers-geojson/static/js/2.dac2810b.chunk.js",
+    "static/js/2.dac2810b.chunk.js.map": "/react-openlayers-geojson/static/js/2.dac2810b.chunk.js.map",
+    "index.html": "/react-openlayers-geojson/index.html",
+    "precache-manifest.59918e1632c928412bfb32f0c1057271.js": "/react-openlayers-geojson/precache-manifest.59918e1632c928412bfb32f0c1057271.js",
+    "service-worker.js": "/react-openlayers-geojson/service-worker.js",
+    "static/css/2.db529fa1.chunk.css.map": "/react-openlayers-geojson/static/css/2.db529fa1.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/react-openlayers-geojson/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.dac2810b.chunk.js.LICENSE.txt": "/react-openlayers-geojson/static/js/2.dac2810b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62f40f1e.js",
+    "static/css/2.db529fa1.chunk.css",
+    "static/js/2.dac2810b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b62a9fce.chunk.js"
+  ]
+}
